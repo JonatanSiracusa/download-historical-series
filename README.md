@@ -7,13 +7,22 @@
 
 # Descargando Precios Históricos
 
-## descripcion breve
 En esrte sencillo notebook podemos descargar, de forma escalabale, series de precios históricos en sus distintas categorías (Open, Adj Close). Asimismo, guardamos los datos en archivos que podremos descargar, en caso de desear trabajar sin estar conectados a internet.
 
-## 📞 Contacto
 
-Si tienes preguntas o deseas colaborar en este proyecto, puedes contactarme a través de: - 📧 Email: [a.jonatan.siracusa@gmail.com](mailto:a.jonatan.siracusa@gmail.com) - 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario) - 🐙 GitHub: [github.com/tuusuario](https://github.com/tuusuario)
+## Contacto
 
+Si tenes preguntas sobre este proyecto, no dudes en contactarme a través de: 
+- 📧 Email: [a.jonatan.siracusa@gmail.com](mailto:a.jonatan.siracusa@gmail.com) 
+- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario) 
+- 🐙 GitHub: [github.com/tuusuario](https://github.com/tuusuario)
+
+- **Author:** Angel Jonatán Siracusa
+- **Email:** a.jonatan.siracusa@gmail.com
+- **LinkedIn:** [Profile](https://linkedin.com/in/tuusuario)
+- **GitHub:** [Repository](https://github.com/tuusuario/portfolio-optimization)
+- **GitHub Page:** [Visit Here](https://tuusuario.github.io/)
+- **Medium:** [Profile](https://medium.com/@tuusuario)
 
 
 

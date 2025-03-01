@@ -4,20 +4,45 @@
 [![View on Website](https://img.shields.io/badge/GitHub-View_on_Website-red?logo=GitHub)](https://jonatansiracusa.github.io/2024/11/14/Download-historical-series/)
 
 
-
 # Descargando Precios Históricos
 
-En esrte sencillo notebook podemos descargar, de forma escalabale, series de precios históricos en sus distintas categorías (Open, Adj Close). Asimismo, guardamos los datos en archivos que podremos descargar, en caso de desear trabajar sin estar conectados a internet.
+En este sencillo notebook podemos descargar, de forma escalabale, series de precios históricos con sus distintas categorías (Adj Close, Close, High, Low, Open, Volume). Asimismo, guardamos los datos en archivos descargables, en caso de desear trabajar sin estar conectados a internet.
 
 
 ## Contacto
 
-Si tenes preguntas sobre este proyecto, no dudes en contactarme a través de: 
-- **LinkedIn:** [linkedin.com/in/ajsiracusa](https://www.linkedin.com/in/ajsiracusa)
-- **GitHub:** [View on GitHub](https://github.com/JonatanSiracusa)
-- **Medium:** [Read on Medium](https://jonatansiracusa.medium.com/)
-- **GitHub Page:** [Visit Website](https://jonatansiracusa.github.io/)
+Si tenes preguntas sobre este proyecto, no dudes en contactarme a través de:
 
+- **LinkedIn:** [linkedin.com/in/ajsiracusa](https://www.linkedin.com/in/ajsiracusa)
+- **GitHub:** [github.com/JonatanSiracusa](https://github.com/JonatanSiracusa)
+- **Medium:** [jonatansiracusa.medium.com](https://jonatansiracusa.medium.com/)
+- **GitHub Page:** [jonatansiracusa.github.io](https://jonatansiracusa.github.io/)
+
+
+## Tabla de Contenidos:
+
+1. Caracteristicas
+2. Requisitos
+3. Instalación
+4. Uso
+5. Ejemplos y Visualizaciones
+6. Estructura del Proyecto
+7. Tecnologías
+8. Contribución
+9. Licencia
+
+
+
+## Caracteristicas
+
+
+
+
+
+🚀 *Si te gustó este proyecto, dale una estrella ⭐ en GitHub y sígueme en [LinkedIn](https://linkedin.com/in/tuusuario) y [GitHub](https://github.com/tuusuario).*
+
+
+---
 
 
 # Nombre Proj

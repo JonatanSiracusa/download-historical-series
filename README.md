@@ -21,7 +21,7 @@ Si tenes preguntas sobre este proyecto, no dudes en contactarme a través de:
 
 ## Tabla de Contenidos:
 
-1. [Caracteristicas](##Caracteristicas)
+1. [Caracteristicas](#Caracteristicas)
 2. Requisitos
 3. Instalación
 4. Uso

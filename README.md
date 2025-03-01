@@ -1,7 +1,20 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-green?logo=GitHub)](https://github.com/JonatanSiracusa/download-historical-series)
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ajsiracusa/)
-[![View on Medium](https://img.shields.io/badge/Medium-Read_on_Medium-blueviolet?logo=medium)](https://jonatansiracusa.medium.com/)
+[![Read on Medium](https://img.shields.io/badge/Medium-Read_on_Medium-blueviolet?logo=medium)](https://jonatansiracusa.medium.com/)
 [![View on Website](https://img.shields.io/badge/GitHub-View_on_Website-red?logo=GitHub)](https://jonatansiracusa.github.io/2024/11/14/Download-historical-series/)
+
+
+
+# Descargando Precios Históricos
+
+## descripcion breve
+En esrte sencillo notebook podemos descargar, de forma escalabale, series de precios históricos en sus distintas categorías (Open, Adj Close). Asimismo, guardamos los datos en archivos que podremos descargar, en caso de desear trabajar sin estar conectados a internet.
+
+## 📞 Contacto
+
+Si tienes preguntas o deseas colaborar en este proyecto, puedes contactarme a través de: - 📧 Email: [a.jonatan.siracusa@gmail.com](mailto:a.jonatan.siracusa@gmail.com) - 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario) - 🐙 GitHub: [github.com/tuusuario](https://github.com/tuusuario)
+
+
 
 
 

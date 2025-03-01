@@ -1,17 +1,126 @@
-# Historical prices download   
+# Nombre Proj
 
-In this notebook we will be downloading the historical series of a list of stocks.
-In this case, we will download Byma´s stock prices from Yahoo Finance. 
 
-The tickers and Yahoo Finance's tickers to be downloaded are specified in a .xlsx file.
 
-In addition, we will find the next calculations for each asset price:
+# Portfolio Optimization with Python
 
-1. Daily simple (discrete) returns.
-2. Daily log (continuous) returns.
-3. Volatilities for options strategies: based on the last 40 trading days and Log Returns.
+_English version below_
 
-Returns are based on Adj. Close values.
+## nombre en castellano
+### descripcion breve
+### Contacto
+### demo en...
+### tabla de contenidos:
+1.	Caracteristicas
+2.	Instalación
+3.	Uso
+4.	Ejemplos y Visualizaciones
+5.	Tecnologías
+6.	Contribución
+7.	Licencia
 
-Two files in .csv and .xlsx formats are downloaded.
-One contains the Adj. Close prices. The second, contains the Adj. Close prices and the calculations for every value.
+### Caracteristicas ...
+
+---
+
+# Portfolio Optimization with Python
+
+## nombre en ingles
+### ...
+
+
+1 + 3 + ING-ESP:
+
+# nombre en ingles
+## descripcion breve
+## contact
+## demo en...
+## tabla de contenidos:
+
+## features
+## installation
+## usage
+## contr
+## license
+
+
+
+
+1 + 3 + ING-ESP:
+
+# nombre en ingles
+## descripcion breve
+## contact
+## demo en...
+## tabla de contenidos:
+
+## features
+## installation
+## usage
+## contr
+## license
+
+---
+
+# nombre en esp
+## contacto
+## caracteristicas
+## instalacion
+## uso
+## contr
+## licencia
+
+
+
+
+
+OPC 3:
+# nombre
+## descripcion breve
+## Contacto
+## demo en...
+## tabla de contenidos:
+1.	Caracteristicas
+2.	Instalación
+3.	Uso
+4.	Ejemplos y Visualizaciones
+5.	Tecnologías
+6.	Contribución
+7.	Licencia
+
+
+## Caracteristicas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🚀 *Si te gustó este proyecto, dale una estrella ⭐ en GitHub y sígueme en [LinkedIn](https://linkedin.com/in/tuusuario) y [GitHub](https://github.com/tuusuario).*

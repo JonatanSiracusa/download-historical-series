@@ -13,16 +13,10 @@ En esrte sencillo notebook podemos descargar, de forma escalabale, series de pre
 ## Contacto
 
 Si tenes preguntas sobre este proyecto, no dudes en contactarme a través de: 
-"""- 📧 Email: [a.jonatan.siracusa@gmail.com](mailto:a.jonatan.siracusa@gmail.com) 
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario) 
-- 🐙 GitHub: [github.com/tuusuario](https://github.com/tuusuario)"""
-"""
-- **Author:** Angel Jonatán Siracusa
-- **Email:** [a.jonatan.siracusa@gmail.com](mailto:a.jonatan.siracusa@gmail.com) """
 - **LinkedIn:** [linkedin.com/in/ajsiracusa](https://www.linkedin.com/in/ajsiracusa)
 - **GitHub:** [View on GitHub](https://github.com/JonatanSiracusa)
 - **Medium:** [Read on Medium](https://jonatansiracusa.medium.com/)
-- **GitHub Page:** [Visit Here](https://jonatansiracusa.github.io/)
+- **GitHub Page:** [Visit Website](https://jonatansiracusa.github.io/)
 
 
 

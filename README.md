@@ -13,17 +13,16 @@ En esrte sencillo notebook podemos descargar, de forma escalabale, series de pre
 ## Contacto
 
 Si tenes preguntas sobre este proyecto, no dudes en contactarme a través de: 
-- 📧 Email: [a.jonatan.siracusa@gmail.com](mailto:a.jonatan.siracusa@gmail.com) 
+"""- 📧 Email: [a.jonatan.siracusa@gmail.com](mailto:a.jonatan.siracusa@gmail.com) 
 - 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario) 
-- 🐙 GitHub: [github.com/tuusuario](https://github.com/tuusuario)
-
+- 🐙 GitHub: [github.com/tuusuario](https://github.com/tuusuario)"""
+"""
 - **Author:** Angel Jonatán Siracusa
-- **Email:** a.jonatan.siracusa@gmail.com
-- **LinkedIn:** [Profile](https://linkedin.com/in/tuusuario)
-- **GitHub:** [Repository](https://github.com/tuusuario/portfolio-optimization)
-- **GitHub Page:** [Visit Here](https://tuusuario.github.io/)
-- **Medium:** [Profile](https://medium.com/@tuusuario)
-
+- **Email:** [a.jonatan.siracusa@gmail.com](mailto:a.jonatan.siracusa@gmail.com) """
+- **LinkedIn:** [linkedin.com/in/ajsiracusa](https://www.linkedin.com/in/ajsiracusa)
+- **GitHub:** [View on GitHub](https://github.com/JonatanSiracusa)
+- **Medium:** [Read on Medium](https://jonatansiracusa.medium.com/)
+- **GitHub Page:** [Visit Here](https://jonatansiracusa.github.io/)
 
 
 

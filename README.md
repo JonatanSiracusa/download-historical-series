@@ -1,3 +1,12 @@
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/JonatanSiracusa/download-historical-series)
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ajsiracusa/)
+
+[![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-blueviolet?logo=medium)](https://jonatansiracusa.medium.com/)
+[![View on Website](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://jonatansiracusa.github.io/2024/11/14/Download-historical-series/)
+
+[![GitHub Pages](https://img.shields.io/badge/GitHub-View_Website-blue?style=flat&logo=github)](https://tuusuario.github.io/)
+
+
 # Nombre Proj
 
 
